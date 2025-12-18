@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "dns-packet": "^5.6.1",
+    "dns2": "^2.1.0",
+    "js-yaml": "^4.1.1"
+  }
+}

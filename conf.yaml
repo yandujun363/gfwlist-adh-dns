@@ -1,0 +1,44 @@
+# 基础配置
+author: "yandujun363"
+distribution_url: "https://github.com/yangdujun/gfwlist-adh-dns"
+output_file: "host.conf"
+
+#debug
+debug: false
+
+# GFW列表配置
+gfw_list_url: "https://gh-proxy.com/https://raw.githubusercontent.com/gfwlist/gfwlist/refs/heads/master/list.txt"
+local_gfw_file: "" # 优先使用本地文件（如果填写）
+domain_output: "data/all"
+upstream_DNS: |- #非名单内域名解析使用的DNS,一行一个，不要有空行
+  223.5.5.5
+  223.6.6.6
+  119.29.29.29
+  119.28.28.28
+  https://doh.pub/dns-query
+  https://dns.alidns.com/dns-query
+Whitelist_DNS: #名单内域名解析使用的DNS，一行一个，不要有空行
+  tcp://8.8.8.8
+  tcp://8.8.4.4
+  tcp://1.1.1.1
+  tcp://1.0.0.1
+  tcp://4.2.2.1
+  tcp://4.2.2.2
+  tcp://4.2.2.3
+  tcp://4.2.2.4
+  tcp://4.2.2.5
+  tcp://4.2.2.6
+  tcp://77.88.8.8
+  tcp://77.88.8.1
+  tcp://101.101.101.101
+  tls://1dot1dot1dot1.cloudflare-dns.com
+  h3://cloudflare-dns.com/dns-query
+  https://77.88.8.8/dns-query
+  https://77.88.8.1/dns-query
+
+classify_domains: false
+dns_servers:
+  - "127.0.0.1"
+classify_dns_timeout: 3000
+tcp_ping_timeout: 300
+tcp_ping_retries: 1
