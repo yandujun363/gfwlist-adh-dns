@@ -1,3 +1,4 @@
 node_modules
 domain-list-community
 *.dat
+dns-proxy.js
