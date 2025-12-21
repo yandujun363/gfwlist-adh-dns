@@ -1,6 +1,7 @@
 node_modules
 domain-list-community
-*.dat
 dns-proxy.js
 host2.js
 host3.js
+conf2.yaml
+conf3.yaml
