@@ -36,9 +36,9 @@ Whitelist_DNS: #名单内域名解析使用的DNS，一行一个，不要有空�
   https://77.88.8.8/dns-query
   https://77.88.8.1/dns-query
 
-classify_domains: false
+classify_domains: true
 dns_servers:
-  - "127.0.0.1"
+  - "10.0.0.5"
 classify_dns_timeout: 3000
 tcp_ping_timeout: 300
-tcp_ping_retries: 1
+tcp_ping_retries: 3
