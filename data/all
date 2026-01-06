@@ -181,6 +181,7 @@ domain:agnesb.fr
 domain:agoogleaday.com
 domain:agro.hk
 domain:ai.dev
+domain:ai.studio
 domain:aiosearch.com
 domain:aiph.net
 domain:airasia.com
@@ -206,6 +207,7 @@ domain:alicejapan.co.jp
 domain:aliengu.com
 domain:alive.bar
 domain:aljazeera.com
+domain:aljazeera.net
 domain:alkasir.com
 domain:all4mom.org
 domain:allcoin.com
@@ -907,7 +909,6 @@ domain:chrome.com
 domain:chromecast.com
 domain:chromeexperiments.com
 domain:chromestatus.com
-domain:chromium.org
 domain:chuang-yen.org
 domain:chubold.com
 domain:chubun.com
@@ -1140,6 +1141,7 @@ domain:daum.net
 domain:david-kilgour.com
 domain:dawangidc.com
 domain:daxa.cn
+domain:dazn.com
 domain:db.tt
 domain:dbgjd.com
 domain:dcard.tw
@@ -1166,7 +1168,6 @@ domain:deja.com
 domain:delcamp.net
 domain:demo.unlock-music.dev
 domain:demosisto.hk
-domain:deno.dev
 domain:depositphotos.com
 domain:desc.se
 domain:desipro.de
@@ -1234,7 +1235,6 @@ domain:doc.new
 domain:docker.com
 domain:docker.io
 domain:dockerstatus.com
-domain:docs.deno.com
 domain:docs.new
 domain:doctorvoice.org
 domain:documentingreality.com
@@ -1835,6 +1835,7 @@ domain:gfsale.com
 domain:gfw.press
 domain:gfw.report
 domain:gfwatch.org
+domain:gfwbao.com
 domain:ggpht.com
 domain:ggssl.com
 domain:ghidra-sre.org
@@ -2449,6 +2450,7 @@ domain:ismalltits.com
 domain:ismprofessional.net
 domain:isohunt.com
 domain:israbox.com
+domain:issues.chromium.org
 domain:issuu.com
 domain:istars.co.nz
 domain:istockphoto.com
@@ -2790,6 +2792,7 @@ domain:longtoes.com
 domain:lookpic.com
 domain:looktoronto.com
 domain:lotuslight.org.tw
+domain:lovart.ai
 domain:lovetvshow.com
 domain:lpsg.com
 domain:lrfz.com
@@ -3156,6 +3159,7 @@ domain:ned.org
 domain:nekoslovakia.net
 domain:neo-miracle.com
 domain:neowin.net
+domain:nephobox.com
 domain:netalert.me
 domain:netbirds.com
 domain:netcolony.com
@@ -3392,6 +3396,8 @@ domain:onmypc.org
 domain:onthehunt.com
 domain:ontrac.com
 domain:oojj.de
+domain:ooni.io
+domain:ooni.org
 domain:open.com.hk
 domain:open.firstory.me
 domain:openai.com
@@ -3500,6 +3506,7 @@ domain:pct.org.tw
 domain:pdetails.com
 domain:pdproxy.com
 domain:pds.nasa.gov
+domain:pdst.fm
 domain:peace.ca
 domain:peacefire.org
 domain:peeasian.com
@@ -3547,6 +3554,23 @@ domain:ping.fm
 domain:pinimg.com
 domain:pinkrod.com
 domain:pinoy-n.com
+domain:pinterest.at
+domain:pinterest.ca
+domain:pinterest.cl
+domain:pinterest.co.uk
+domain:pinterest.com
+domain:pinterest.com.au
+domain:pinterest.com.mx
+domain:pinterest.de
+domain:pinterest.es
+domain:pinterest.fr
+domain:pinterest.ie
+domain:pinterest.it
+domain:pinterest.jp
+domain:pinterest.nz
+domain:pinterest.ph
+domain:pinterest.pt
+domain:pinterest.se
 domain:pioneer-worker.forums-free.com
 domain:pipii.tv
 domain:piraattilahti.org
@@ -4215,6 +4239,7 @@ domain:staticflickr.com
 domain:stboy.net
 domain:stc.com.sa
 domain:steamcommunity.com
+domain:steamladder.com
 domain:steamstatic.com
 domain:steel-storm.com
 domain:steemit.com
@@ -4842,6 +4867,7 @@ domain:unseen.is
 domain:unstable.icu
 domain:unwire.hk
 domain:uocn.org
+domain:up.audio
 domain:upbit.com
 domain:updates.tdesktop.com
 domain:upghsbc.com
@@ -5254,6 +5280,7 @@ domain:xbabe.com
 domain:xbookcn.com
 domain:xbtce.com
 domain:xcafe.in
+domain:xcancel.com
 domain:xcity.jp
 domain:xcritic.com
 domain:xerotica.com
