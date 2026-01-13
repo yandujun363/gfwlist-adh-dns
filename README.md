@@ -39,8 +39,7 @@ host2.conf无需依赖防火墙规则
 
 data目录下的是分类  
 cloudflare是SOA和NS记录包含cloudflare的  
-pingable是SOA和NS不包含cloudflare的可以TCPING通443端口的  
-other是不属于以上分类  
+nocloudflare是SOA和NS记录不包含cloudflare的
 可以使用[domain-list-community](https://github.com/v2ray/domain-list-community)转换为.dat文件
 
 不过分类的代码就是一坨屎山  
