@@ -139,6 +139,7 @@ domain:airvpn.org
 domain:ait.org.tw
 domain:aiweiwei.com
 domain:aiweiweiblog.com
+domain:akamai.tvb.com
 domain:akiba-online.com
 domain:akiba-web.com
 domain:akow.org
@@ -194,7 +195,10 @@ domain:angola.org
 domain:angularjs.org
 domain:animecrazy.net
 domain:aniscartujo.com
+domain:annas-archive.in
+domain:annas-archive.li
 domain:annas-archive.org
+domain:annas-archive.pm
 domain:annas-archive.se
 domain:anobii.com
 domain:anonfiles.com
@@ -407,7 +411,6 @@ domain:blog.tiney.com
 domain:blog.youthwant.com.tw
 domain:blogblog.com
 domain:blogcatalog.com
-domain:blogcity.me
 domain:blogdns.org
 domain:blogger.com
 domain:blogimg.jp
@@ -767,7 +770,6 @@ domain:d-fukyu.com
 domain:d.cash
 domain:d100.net
 domain:d2bay.com
-domain:dabr.co.uk
 domain:dabr.eu
 domain:dabr.me
 domain:dabr.mobi
@@ -1054,7 +1056,6 @@ domain:facebookquotes4u.com
 domain:facesofnyfw.com
 domain:faith100.org
 domain:faithfuleye.com
-domain:faiththedog.info
 domain:falsefire.com
 domain:falun-co.org
 domain:falun-ny.net
@@ -1154,7 +1155,6 @@ domain:forum.baby-kingdom.com
 domain:forum.mymaji.com
 domain:forum.palmislife.com
 domain:forum.slime.com.tw
-domain:forum.tvb.com
 domain:forum4hk.com
 domain:fountmedia.io
 domain:foxsub.com
@@ -1486,6 +1486,7 @@ domain:hclips.com
 domain:hdtvb.net
 domain:hdzog.com
 domain:heartyit.com
+domain:hec.su
 domain:hecaitou.net
 domain:hechaji.com
 domain:heeact.edu.tw
@@ -1529,7 +1530,6 @@ domain:hkatvnews.com
 domain:hkbc.net
 domain:hkbookcity.com
 domain:hkchurch.org
-domain:hkci.org.hk
 domain:hkcmi.edu
 domain:hkcoc.com
 domain:hkday.net
@@ -1875,6 +1875,7 @@ domain:kurashsultan.com
 domain:kurtmunger.com
 domain:kusocity.com
 domain:kwcg.ca
+domain:kxsw.life
 domain:kyohk.net
 domain:kzeng.info
 domain:la-forum.org
@@ -2074,7 +2075,6 @@ domain:mihua.org
 domain:mike.cz.cc
 domain:mikesoltys.com
 domain:milph.net
-domain:milsurps.com
 domain:mimiai.net
 domain:mimivip.com
 domain:mindrolling.org
@@ -2151,7 +2151,6 @@ domain:mrbonus.com
 domain:mrface.com
 domain:mrslove.com
 domain:mrtweet.com
-domain:msa-it.org
 domain:msguancha.com
 domain:msha.gov
 domain:mstdn.social
@@ -2207,6 +2206,7 @@ domain:mysite.verizon.net
 domain:myspace.com
 domain:myspacecdn.com
 domain:mytizi.com
+domain:mytvsuper.com
 domain:mywife.cc
 domain:mywww.biz
 domain:myz.info
@@ -2535,18 +2535,12 @@ domain:picsart.com
 domain:picturesocial.com
 domain:pin-cong.com
 domain:pin6.com
-domain:pinimg.com
 domain:pinkrod.com
 domain:pinoy-n.com
-domain:pinterest.ca
-domain:pinterest.com.mx
-domain:pinterest.de
+domain:pinterest.at
 domain:pinterest.es
-domain:pinterest.ie
 domain:pinterest.jp
-domain:pinterest.nz
-domain:pinterest.ph
-domain:pinterest.pt
+domain:pinterest.se
 domain:pioneer-worker.forums-free.com
 domain:pipii.tv
 domain:pixeldrain.com
@@ -2673,6 +2667,7 @@ domain:qxbbs.org
 domain:r-pool.net
 domain:r0.ru
 domain:r10s.jp
+domain:r18.com
 domain:radicalparty.org
 domain:radio-canada.ca
 domain:radio-en-ligne.fr
@@ -3769,6 +3764,7 @@ domain:xn--i2ru8q2qg.com
 domain:xn--ngstr-lra8j.com
 domain:xn--oiq.cc
 domain:xn--p8j9a0d9c9a.xn--q9jyb4c
+domain:xnpool.com
 domain:xnxx.com
 domain:xpud.org
 domain:xsden.info
