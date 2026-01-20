@@ -4,7 +4,7 @@ distribution_url: "https://github.com/yangdujun/gfwlist-adh-dns"
 output_file: "host.conf"
 
 #debug
-debug: false
+debug: true
 
 # GFW列表配置
 gfw_list_url: "https://gh-proxy.com/https://raw.githubusercontent.com/gfwlist/gfwlist/refs/heads/master/list.txt"
@@ -40,5 +40,5 @@ classify_domains: true
 dns_servers:
   - "10.0.0.5"
 classify_dns_timeout: 3000
-tcp_ping_timeout: 300
-tcp_ping_retries: 3
+concurrency:
+  dns_queries: 1
