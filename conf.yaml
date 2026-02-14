@@ -12,11 +12,13 @@ local_gfw_file: "" # 优先使用本地文件（如果填写）
 domain_output: "data/all"
 upstream_DNS: |- #非名单内域名解析使用的DNS,一行一个，不要有空行
   223.5.5.5
+  2400:3200::1
   223.6.6.6
+  2400:3200:baba::1
   119.29.29.29
+  2402:4e00::
+  2402:4e00:1::
   119.28.28.28
-  https://doh.pub/dns-query
-  https://dns.alidns.com/dns-query
 Whitelist_DNS: #名单内域名解析使用的DNS，一行一个，不要有空行
   tcp://8.8.8.8
   tcp://8.8.4.4
@@ -31,12 +33,13 @@ Whitelist_DNS: #名单内域名解析使用的DNS，一行一个，不要有空�
   tcp://77.88.8.8
   tcp://77.88.8.1
   tcp://101.101.101.101
+  tls://1.1.1.1
   tls://1dot1dot1dot1.cloudflare-dns.com
-  h3://cloudflare-dns.com/dns-query
+  https://cloudflare-dns.com/dns-query
   https://77.88.8.8/dns-query
   https://77.88.8.1/dns-query
 
-classify_domains: true
+classify_domains: false
 dns_servers:
   - "10.0.0.5"
 classify_dns_timeout: 3000
