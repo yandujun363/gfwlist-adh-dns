@@ -36,6 +36,7 @@ domain:adguard-vpn.com
 domain:aei.org
 domain:aenhancers.com
 domain:aiosearch.com
+domain:akile.io
 domain:akinator.com
 domain:alive.bar
 domain:alkasir.com
@@ -153,7 +154,6 @@ domain:calendarz.com
 domain:camfrog.com
 domain:canyu.org
 domain:caochangqing.com
-domain:caoporn.us
 domain:cari.com.my
 domain:caribbeancom.com
 domain:carousell.com.hk
@@ -241,7 +241,6 @@ domain:dabr.co.uk
 domain:dailyview.tw
 domain:darmau.co
 domain:darrenliuwei.com
-domain:data.gov.tw
 domain:dawangidc.com
 domain:dcard.tw
 domain:ddc.com.tw
@@ -353,7 +352,6 @@ domain:forefront.ai
 domain:foreignaffairs.com
 domain:foreignpolicy.com
 domain:fourthinternational.org
-domain:fpmtmexico.org
 domain:frank2019.me
 domain:free.bg
 domain:free.com.tw
@@ -384,11 +382,13 @@ domain:ganjingworld.com
 domain:garudalinux.org
 domain:gazotube.com
 domain:gdaily.org
+domain:generated.photos
 domain:genius.com
 domain:geph.io
 domain:getgom.com
 domain:getlantern.org
 domain:getmalus.com
+domain:getoutline.org
 domain:getsession.org
 domain:gettr.com
 domain:getuploader.com
@@ -596,7 +596,6 @@ domain:ludepress.com
 domain:lushstories.com
 domain:lvv2.com
 domain:lzjscript.com
-domain:madou.club
 domain:mandiant.com
 domain:mangabz.com
 domain:mangafox.com
@@ -609,6 +608,7 @@ domain:matrix.org
 domain:matters.news
 domain:matters.town
 domain:medium.com
+domain:meee.com.tw
 domain:memehk.com
 domain:memes.tw
 domain:mercatox.com
@@ -638,6 +638,7 @@ domain:monocloud.me
 domain:moon.fm
 domain:moptt.tw
 domain:moresci.sale
+domain:mosavi.io
 domain:movements.org
 domain:msa-it.org
 domain:my-private-network.co.uk
@@ -648,7 +649,6 @@ domain:myjs.tw
 domain:namu.wiki
 domain:nanopool.org
 domain:nanyang.com
-domain:nat.gov.tw
 domain:nat.moe
 domain:nationalinterest.org
 domain:nationalreview.com
@@ -658,6 +658,7 @@ domain:netflav.com
 domain:newtalk.tw
 domain:newthuhole.com
 domain:nftstorage.link
+domain:nhentai.net
 domain:nic.gov
 domain:niusnews.com
 domain:nmsl.website
@@ -726,14 +727,23 @@ domain:pigav.com
 domain:pincong.rocks
 domain:ping.fm
 domain:pinimg.com
+domain:pinterest.at
 domain:pinterest.ca
 domain:pinterest.cl
 domain:pinterest.co.uk
+domain:pinterest.com
+domain:pinterest.com.au
 domain:pinterest.com.mx
 domain:pinterest.de
 domain:pinterest.es
+domain:pinterest.fr
+domain:pinterest.ie
+domain:pinterest.it
 domain:pinterest.jp
 domain:pinterest.nz
+domain:pinterest.ph
+domain:pinterest.pt
+domain:pinterest.se
 domain:pixelqi.com
 domain:pixiv.net
 domain:pixnet.net
@@ -850,7 +860,6 @@ domain:signal.org
 domain:silvergatebank.com
 domain:simpleswap.io
 domain:singtao.com
-domain:sis001.com
 domain:sitekreator.com
 domain:six-degrees.io
 domain:skybet.com
@@ -914,9 +923,7 @@ domain:surfshark.com
 domain:swapspace.co
 domain:switchvpn.net
 domain:sydneytoday.com
-domain:t66y.com
 domain:taedp.org.tw
-domain:taipei.gov.tw
 domain:taiwanncf.org.tw
 domain:taiwannews.com.tw
 domain:talkboxapp.com
@@ -974,7 +981,6 @@ domain:tinychat.com
 domain:tinypaste.com
 domain:tinyurl.com
 domain:tipas.net
-domain:tipo.gov.tw
 domain:token.im
 domain:tokenlon.im
 domain:top.tv
@@ -1020,6 +1026,7 @@ domain:ultrasurf.us
 domain:ultravpn.com
 domain:unblock.cn.com
 domain:unblocksit.es
+domain:uniswap.org
 domain:unmineable.com
 domain:unstable.icu
 domain:unwire.hk
@@ -1044,6 +1051,7 @@ domain:vidble.com
 domain:vilavpn.com
 domain:virtualrealporn.com
 domain:vivaldi.com
+domain:vmixcore.com
 domain:vnet.link
 domain:voacambodia.com
 domain:voacantonese.com
@@ -1071,6 +1079,7 @@ domain:vrporn.com
 domain:vrsmash.com
 domain:vultryhw.com
 domain:walletconnect.com
+domain:walletconnect.org
 domain:wallmama.com
 domain:wallsttv.com
 domain:wangafu.net

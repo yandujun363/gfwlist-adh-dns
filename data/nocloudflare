@@ -76,7 +76,6 @@ domain:aiph.net
 domain:airconsole.com
 domain:airitilibrary.com
 domain:airvpn.org
-domain:aiss.anws.gov.tw
 domain:ait.org.tw
 domain:aiweiweiblog.com
 domain:akamai.tvb.com
@@ -163,7 +162,6 @@ domain:archive.ph
 domain:archive.today
 domain:archive.vn
 domain:archives.gov
-domain:archives.gov.tw
 domain:arctosia.com
 domain:arena.taipei
 domain:arlingtoncemetery.mil
@@ -176,6 +174,7 @@ domain:asiaone.com
 domain:ask.com
 domain:askynz.net
 domain:assets.bwbx.io
+domain:assets.nxtrace.org
 domain:assimp.org
 domain:astrill.com
 domain:atc.org.au
@@ -347,6 +346,7 @@ domain:campaignforuyghurs.org
 domain:cams.com
 domain:canva.com
 domain:caobian.info
+domain:caoporn.us
 domain:cap.org.hk
 domain:carfax.com
 domain:casino.williamhill.com
@@ -666,17 +666,14 @@ domain:etsy.com
 domain:euronews.com
 domain:evchk.wikia.com
 domain:evschool.net
-domain:exam.gov.tw
 domain:exmormon.org
 domain:expekt.com
 domain:exploader.net
 domain:expressvpn.com
-domain:ey.gov.tw
 domain:eyevio.jp
 domain:f-droid.org
 domain:f2pool.com
 domain:f8.com
-domain:fa.gov.tw
 domain:facebook.com
 domain:facebook.de
 domain:facebook.design
@@ -712,7 +709,6 @@ domain:fbcdn.net
 domain:fbsbx.com
 domain:fbworkmail.com
 domain:fc2cn.com
-domain:fda.gov.tw
 domain:feedburner.com
 domain:feelssh.com
 domain:feministteacher.com
@@ -747,6 +743,7 @@ domain:form.new
 domain:forms.new
 domain:fountmedia.io
 domain:foxsub.com
+domain:fpmtmexico.org
 domain:fqrouter.com
 domain:franklc.com
 domain:free-ss.site
@@ -804,7 +801,6 @@ domain:gcmasia.com
 domain:gcr.io
 domain:geek-art.net
 domain:gekikame.com
-domain:generated.photos
 domain:get.app
 domain:get.dev
 domain:get.how
@@ -814,7 +810,6 @@ domain:getcloak.com
 domain:getfoxyproxy.org
 domain:geti2p.net
 domain:getmdl.io
-domain:getoutline.org
 domain:getsync.com
 domain:gettyimages.ae
 domain:gettyimages.ca
@@ -847,6 +842,7 @@ domain:globalvoicesonline.org
 domain:globalvpn.net
 domain:glype.com
 domain:gmail.com
+domain:gmgn.ai
 domain:gmodules.com
 domain:gnci.org.hk
 domain:go-to-zlibrary.se
@@ -1101,6 +1097,7 @@ domain:gotquestions.org
 domain:gotrusted.com
 domain:gotw.ca
 domain:gov.ir
+domain:gov.tw
 domain:grammaly.com
 domain:graph.org
 domain:graphis.ne.jp
@@ -1118,6 +1115,7 @@ domain:gtv1.org
 domain:guishan.org
 domain:gutteruncensored.com
 domain:gvm.com.tw
+domain:gvt1.com
 domain:gvt3.com
 domain:gwins.org
 domain:gwtproject.org
@@ -1180,7 +1178,6 @@ domain:hoover.org
 domain:hoovers.com
 domain:hotcoin.com
 domain:hotvpn.com
-domain:hpa.gov.tw
 domain:hqcdp.org
 domain:hqjapanesesex.com
 domain:hqsbnet.wordpress.com
@@ -1261,7 +1258,6 @@ domain:imgchili.net
 domain:imgur.com
 domain:imkev.com
 domain:imlive.co
-domain:immigration.gov.tw
 domain:improd.works
 domain:incredibox.fr
 domain:india.com
@@ -1307,7 +1303,6 @@ domain:isgreat.org
 domain:ismaelan.com
 domain:issuu.com
 domain:isupportuyghurs.org
-domain:itaiwan.gov.tw
 domain:italiatibet.org
 domain:itasoftware.com
 domain:itiger.com
@@ -1340,7 +1335,6 @@ domain:journalofdemocracy.org
 domain:jpl.nasa.gov
 domain:jsdelivr.net
 domain:jtvnw.net
-domain:judicial.gov.tw
 domain:jukujo-club.com
 domain:juliepost.com
 domain:juliereyc.com
@@ -1445,7 +1439,6 @@ domain:ltn.com.tw
 domain:luckymobile.ca
 domain:lupm.org
 domain:lvhai.org
-domain:ly.gov.tw
 domain:lzmtnews.org
 domain:m.me
 domain:m.moegirl.org
@@ -1453,6 +1446,7 @@ domain:macgamestore.com
 domain:mad-ar.ch
 domain:madewithcode.com
 domain:madonna-av.com
+domain:madou.club
 domain:madrau.com
 domain:madthumbs.com
 domain:mahjongsoul.com
@@ -1534,7 +1528,6 @@ domain:mixero.com
 domain:mixi.jp
 domain:mizzmona.com
 domain:mji.rip
-domain:mjib.gov.tw
 domain:mjj.rip
 domain:mlc.ai
 domain:mmaaxx.com
@@ -1542,14 +1535,10 @@ domain:mobatek.net
 domain:mobile01.com
 domain:mobileways.de
 domain:modernchinastudies.org
-domain:moeaic.gov.tw
 domain:moeerolibrary.com
-domain:mofa.gov.tw
 domain:mog.com
 domain:mohu.rocks
-domain:moj.gov.tw
 domain:mojim.com
-domain:mol.gov.tw
 domain:momoshop.com.tw
 domain:mondex.org
 domain:money-link.com.tw
@@ -1577,7 +1566,6 @@ domain:musixmatch.com
 domain:muzi.com
 domain:muzi.net
 domain:muzu.tv
-domain:mvdis.gov.tw
 domain:mvg.jp
 domain:mx981.com
 domain:my.pcloud.com
@@ -1649,7 +1637,6 @@ domain:nflximg.net
 domain:nflxso.net
 domain:nflxvideo.net
 domain:nga.mil
-domain:nhi.gov.tw
 domain:nic.cz.cc
 domain:nicovideo.jp
 domain:nightswatch.top
@@ -1678,14 +1665,8 @@ domain:now.com
 domain:nownews.com
 domain:noxinfluencer.com
 domain:npa.go.jp
-domain:npa.gov.tw
-domain:npm.gov.tw
 domain:npsboost.com
 domain:nrk.no
-domain:nsc.gov.tw
-domain:ntbk.gov.tw
-domain:ntbna.gov.tw
-domain:ntbt.gov.tw
 domain:ntdtv.com
 domain:ntdtv.cz
 domain:nuexpo.com
@@ -1737,6 +1718,7 @@ domain:ooni.io
 domain:ooni.org
 domain:open.firstory.me
 domain:openai.com
+domain:opencritic.com
 domain:openid.net
 domain:openleaks.org
 domain:openwebster.com
@@ -1768,7 +1750,6 @@ domain:pawoo.net
 domain:payments-jp.amazon.com
 domain:pbs.org
 domain:pbworks.com
-domain:pcc.gov.tw
 domain:pcij.org
 domain:pct.org.tw
 domain:pdproxy.com
@@ -1791,15 +1772,6 @@ domain:picsart.com
 domain:pin-cong.com
 domain:pin6.com
 domain:pinoy-n.com
-domain:pinterest.at
-domain:pinterest.com
-domain:pinterest.com.au
-domain:pinterest.fr
-domain:pinterest.ie
-domain:pinterest.it
-domain:pinterest.ph
-domain:pinterest.pt
-domain:pinterest.se
 domain:pixeldrain.com
 domain:pixiv.org
 domain:pixivsketch.net
@@ -1990,7 +1962,6 @@ domain:securetunnel.com
 domain:securitykiss.com
 domain:seed4.me
 domain:seevpn.com
-domain:sef.org.tw
 domain:sensortower.com
 domain:setn.com
 domain:sevenload.com
@@ -2031,6 +2002,7 @@ domain:sinoants.com
 domain:sinoca.com
 domain:sinocast.com
 domain:sinoinsider.com
+domain:sis001.com
 domain:site.new
 domain:sitemaps.org
 domain:sites.new
@@ -2070,6 +2042,7 @@ domain:southnews.com.tw
 domain:southpark.cc.com
 domain:soylentnews.org
 domain:spaces.hightail.com
+domain:spacex.com
 domain:spb.com
 domain:spencertipping.com
 domain:spendee.com
@@ -2089,7 +2062,6 @@ domain:ssrshare.com
 domain:standupfortibet.org
 domain:starp2p.com
 domain:startpage.com
-domain:stat.gov.tw
 domain:static-economist.com
 domain:static.pocketcasts.com
 domain:static.shemalez.com
@@ -2139,15 +2111,14 @@ domain:syosetu.com
 domain:t-g.com
 domain:t.co
 domain:t.me
+domain:t66y.com
 domain:taaze.tw
-domain:tacc.cwb.gov.tw
 domain:tagwalk.com
 domain:tails.net
 domain:taipeisociety.org
 domain:taipeitimes.com
 domain:taisounds.com
 domain:taiwanhot.net
-domain:taiwanjobs.gov.tw
 domain:taiwanjustice.net
 domain:taiwantt.org.tw
 domain:talkatone.com
@@ -2185,7 +2156,6 @@ domain:tew.org
 domain:tfhub.dev
 domain:tfiflve.com
 domain:tg.dev
-domain:thb.gov.tw
 domain:theatlantic.com
 domain:thebcomplex.com
 domain:theblaze.com
@@ -2271,6 +2241,7 @@ domain:top10vpn.com
 domain:topsy.com
 domain:toptip.ca
 domain:toptoon.net
+domain:tor.eff.org
 domain:torlock.com
 domain:torproject.org
 domain:torrenty.org
@@ -2319,6 +2290,7 @@ domain:tweetwally.com
 domain:twelve.today
 domain:twerkingbutt.com
 domain:twftp.org
+domain:twgov.tw
 domain:twibble.de
 domain:twibs.com
 domain:twimg.com
@@ -2423,7 +2395,6 @@ domain:vip-enterprise.com
 domain:viu.com
 domain:vivthomas.com
 domain:vjav.com
-domain:vmixcore.com
 domain:vmpsoft.com
 domain:voachineseblog.com
 domain:vocaroo.com
@@ -2469,7 +2440,6 @@ domain:wattpad.com
 domain:wav.tv
 domain:waveprotocol.org
 domain:waymo.com
-domain:wda.gov.tw
 domain:wearn.com
 domain:web.dev
 domain:web2project.net
@@ -2567,6 +2537,7 @@ domain:wwitv.com
 domain:www.ajsands.com
 domain:www.aolnews.com
 domain:www.bing.com
+domain:www.clashverge.dev
 domain:www.hoyolab.com
 domain:www.lorenzetti.com.br
 domain:www.moztw.org
