@@ -22,6 +22,32 @@ ip6tables -I FORWARD -o pppoe-wan -p tcp --sport 53 --tcp-flags FIN FIN -j REJEC
 ip6tables -I FORWARD -i pppoe-wan -p tcp --dport 53 --tcp-flags FIN FIN -j REJECT --reject-with tcp-reset
 ip6tables -I FORWARD -i pppoe-wan -p tcp --sport 53 --tcp-flags FIN FIN -j REJECT --reject-with tcp-reset
 ```
+
+nft版本如下：
+```sh
+#!/bin/sh
+nft delete chain inet fw4 custom_mangle_prerouting 2>/dev/null
+nft delete chain inet fw4 custom_forward 2>/dev/null
+
+nft add chain inet fw4 custom_raw_prerouting { type filter hook prerouting priority -450\; policy accept\; }
+nft add chain inet fw4 custom_forward { type filter hook forward priority -350\; policy accept\; }
+
+nft add set inet fw4 rst_drop_ports { type inet_service\; elements = { 53, 443, 853 } \; }
+
+nft add rule inet fw4 custom_raw_prerouting iif "pppoe-wan" ip protocol tcp tcp sport @rst_drop_ports tcp flags rst counter drop
+nft add rule inet fw4 custom_raw_prerouting iif "pppoe-wan" ip6 nexthdr tcp tcp sport @rst_drop_ports tcp flags rst counter drop
+
+nft add rule inet fw4 custom_forward oif "pppoe-wan" tcp sport 53 tcp flags fin counter ct mark set 0x1 reject with tcp reset
+nft add rule inet fw4 custom_forward oif "pppoe-wan" tcp dport 53 tcp flags fin counter ct mark set 0x1 reject with tcp reset
+nft add rule inet fw4 custom_forward iif "pppoe-wan" tcp sport 53 tcp flags fin counter ct mark set 0x1 reject with tcp reset
+nft add rule inet fw4 custom_forward iif "pppoe-wan" tcp dport 53 tcp flags fin counter ct mark set 0x1 reject with tcp reset
+
+nft add rule inet fw4 custom_forward ct mark 0x1 tcp dport 53 counter reject with tcp reset
+nft add rule inet fw4 custom_forward ct mark 0x1 tcp sport 53 counter reject with tcp reset
+```
+个人推荐用nft(条件支持的情况下)
+因为快速释放TCP DNS 比ipt快
+
 host2.conf无需依赖防火墙规则
 
 data目录下的是分类  
