@@ -68,6 +68,7 @@ domain:9gag.com
 domain:9news.com.au
 domain:a-normal-day.com
 domain:a248.e.akamai.net
+domain:aave.com
 domain:abc.net.au
 domain:abc.xyz
 domain:abebooks.co.uk
@@ -227,12 +228,14 @@ domain:archiveofourown.org
 domain:archives.gov
 domain:arctosia.com
 domain:areca-backup.org
+domain:arena.ai
 domain:arena.taipei
 domain:arethusa.su
 domain:arlingtoncemetery.mil
 domain:arte.tv
 domain:artstation.com
 domain:arvanstorage.ir
+domain:arweave.org
 domain:asacp.org
 domain:asiaharvest.org
 domain:asianage.com
@@ -629,6 +632,7 @@ domain:chromeexperiments.com
 domain:chromestatus.com
 domain:chromium.org
 domain:ci-en.jp
+domain:cia.gov
 domain:cici.com
 domain:ciciai.com
 domain:cirosantilli.com
@@ -644,6 +648,7 @@ domain:cixiaoya.club
 domain:ck101.com
 domain:classicalguitarblog.net
 domain:claude.ai
+domain:claude.com
 domain:cldr.unicode.org
 domain:clearsurance.com
 domain:clementine-player.org
@@ -844,6 +849,7 @@ domain:dmc.nico
 domain:dmcdn.net
 domain:dmhy.org
 domain:dmm.co.jp
+domain:dns.cloudflare.com
 domain:dns2go.com
 domain:dnscrypt.org
 domain:dnssec.net
@@ -871,6 +877,7 @@ domain:doublethinklab.org
 domain:douchi.space
 domain:dougscripts.com
 domain:doujincafe.com
+domain:download.dappcdn.com
 domain:dpool.top
 domain:dpp.org.tw
 domain:dpr.info
@@ -914,6 +921,7 @@ domain:ebook.hyread.com.tw
 domain:ebtcbank.com
 domain:ecfa.org.tw
 domain:ecimg.tw
+domain:economist.com
 domain:edgecastcdn.net
 domain:edubridge.com
 domain:edx-cdn.org
@@ -1107,6 +1115,7 @@ domain:free.com.tw
 domain:freebeacon.com
 domain:freebrowser.org
 domain:freechinaweibo.com
+domain:freedom.gov
 domain:freedomhouse.org
 domain:freedominfonetweb.wordpress.com
 domain:freedomsherald.org
@@ -1390,6 +1399,7 @@ domain:google.com.vn
 domain:google.cv
 domain:google.cz
 domain:google.de
+domain:google.dev
 domain:google.dk
 domain:google.dm
 domain:google.dz
@@ -1784,6 +1794,7 @@ domain:internetpopculture.com
 domain:interseclab.org
 domain:inthenameofconfuciusmovie.com
 domain:investigating.wordpress.com
+domain:investing.com
 domain:invidio.us
 domain:inxian.com
 domain:ipdefenseforum.com
@@ -2056,6 +2067,7 @@ domain:mangafox.com
 domain:mangafox.me
 domain:mangmang.run
 domain:manta.com
+domain:manus.im
 domain:manyvoices.news
 domain:marc.info
 domain:martau.com
@@ -2371,8 +2383,10 @@ domain:ogate.org
 domain:ohmyrss.com
 domain:ok.ru
 domain:okayfreedom.com
+domain:okcoin.com
 domain:okex.com
 domain:okk.tw
+domain:oklink.com
 domain:okpool.me
 domain:okx.com
 domain:olehdtv.com
@@ -2837,6 +2851,7 @@ domain:shenyunshop.com
 domain:shenzhoufilm.com
 domain:shenzhouzhengdao.org
 domain:shiksha.com
+domain:shitjournal.org
 domain:shixiao.org
 domain:shizhao.org
 domain:shodanhq.com
@@ -3607,6 +3622,7 @@ domain:wiredbytes.com
 domain:wiredpen.com
 domain:wireguard.com
 domain:wisevid.com
+domain:wispbyte.com
 domain:withgoogle.com
 domain:withyoutube.com
 domain:witopia.net
@@ -3673,6 +3689,7 @@ domain:xbtce.com
 domain:xcafe.in
 domain:xcancel.com
 domain:xcity.jp
+domain:xdaforums.com
 domain:xerotica.com
 domain:xfinity.com
 domain:xfxssr.me
@@ -3691,11 +3708,13 @@ domain:xjtravelguide.com
 domain:xm.com
 domain:xml-training-guide.com
 domain:xn--11xs86f.icu
+domain:xn--1jqvh729avzfcy2d8ummib.com
 domain:xn--4gq171p.com
 domain:xn--9iqy04a7fi01l.com
 domain:xn--9pr62r24a.com
 domain:xn--czq75pvv1aj5c.org
 domain:xn--i2ru8q2qg.com
+domain:xn--kcrv3utim32hx9f6qe.com
 domain:xn--ngstr-lra8j.com
 domain:xn--noss43i.com
 domain:xn--oiq.cc
@@ -3793,7 +3812,6 @@ domain:z-library.ec
 domain:z-library.sk
 domain:zalmos.com
 domain:zamimg.com
-domain:zaobao.com.sg
 domain:zaochenbao.com
 domain:zattoo.com
 domain:zb.com
