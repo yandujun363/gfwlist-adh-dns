@@ -97,6 +97,7 @@ domain:admin.recaptcha.net
 domain:admob.com
 domain:ads-twitter.com
 domain:adsense.com
+domain:adservice.google.com
 domain:adult-sex-games.com
 domain:advanscene.com
 domain:advertfan.com
@@ -498,6 +499,7 @@ domain:c-est-simple.com
 domain:c-span.org
 domain:c-spanvideo.org
 domain:c.mi.com
+domain:c.pki.goog
 domain:c2cx.com
 domain:c3pool.com
 domain:cableav.tv
@@ -548,8 +550,10 @@ domain:cdbook.org
 domain:cdef.org
 domain:cdig.info
 domain:cdjp.org
+domain:cdn-china.ampproject.org
 domain:cdn-images.mailchimp.com
 domain:cdn-telegram.org
+domain:cdn.ampproject.org
 domain:cdn.arstechnica.net
 domain:cdn.jwplayer.com
 domain:cdn.printfriendly.com
@@ -585,6 +589,7 @@ domain:chatgpt.com
 domain:chatpdf.com
 domain:chaturbate.com
 domain:checkgfw.com
+domain:checkin.gstatic.com
 domain:chengmingmag.com
 domain:chenguangcheng.com
 domain:chenpokong.com
@@ -643,6 +648,7 @@ domain:chromecast.com
 domain:chromeexperiments.com
 domain:chromestatus.com
 domain:ci-en.jp
+domain:ci.android.com
 domain:cia.gov
 domain:cici.com
 domain:ciciai.com
@@ -663,6 +669,7 @@ domain:claude.com
 domain:cldr.unicode.org
 domain:clearsurance.com
 domain:clementine-player.org
+domain:clientservices.googleapis.com
 domain:clinica-tibet.ru
 domain:clipconverter.cc
 domain:cloud.dify.ai
@@ -680,6 +687,7 @@ domain:cmi.org.tw
 domain:cms.gov
 domain:cmule.com
 domain:cmx.im
+domain:cn.investing.com
 domain:cn.sandscotaicentral.com
 domain:cn.theaustralian.com.au
 domain:cn.uptodown.com
@@ -718,6 +726,7 @@ domain:communitychoicecu.com
 domain:comparitech.com
 domain:compileheart.com
 domain:connect.facebook.net
+domain:connectivitycheck.gstatic.com
 domain:conoha.jp
 domain:contests.twilio.com
 domain:cool18.com
@@ -743,6 +752,7 @@ domain:crchina.org
 domain:creaders.net
 domain:creativelab5.com
 domain:cristyli.com
+domain:crl.pki.goog
 domain:crossfire.co.kr
 domain:crossvpn.net
 domain:crosswall.org
@@ -752,6 +762,7 @@ domain:crucial.com
 domain:crunchyroll.com
 domain:cruxpool.com
 domain:csdparty.com
+domain:csi.gstatic.com
 domain:csis.org
 domain:csmonitor.com
 domain:css.pixnet.in
@@ -854,6 +865,7 @@ domain:diyin.org
 domain:dizhuzhishang.com
 domain:dl-laby.jp
 domain:dl.box.net
+domain:dl.google.com
 domain:dlive.tv
 domain:dlsite.com
 domain:dlyoutube.com
@@ -1089,6 +1101,7 @@ domain:financialexpress.com
 domain:finchvpn.com
 domain:findyoutube.com
 domain:findyoutube.net
+domain:firebase-settings.crashlytics.com
 domain:firebaseio.com
 domain:fireofliberty.info
 domain:fireofliberty.org
@@ -1116,6 +1129,8 @@ domain:fnc.ebc.net.tw
 domain:fochk.org
 domain:focustaiwan.tw
 domain:fofg.org
+domain:fonts.googleapis.com
+domain:fonts.gstatic.com
 domain:fooooo.com
 domain:forbes.com
 domain:forefront.ai
@@ -1191,7 +1206,10 @@ domain:g-area.org
 domain:g-queen.com
 domain:g.ai
 domain:g.co
+domain:g0.gstatic.com
 domain:g0v.social
+domain:g1.gstatic.com
+domain:g2.gstatic.com
 domain:gab.com
 domain:gabocorp.com
 domain:gagaoolala.com
@@ -1734,6 +1752,7 @@ domain:hyperrate.com
 domain:hypothes.is
 domain:i.111666.best
 domain:i.lithium.com
+domain:i.pki.goog
 domain:i2p2.de
 domain:i818hk.com
 domain:iam.soy
@@ -1778,6 +1797,7 @@ domain:imageshack.us
 domain:imagevenue.com
 domain:imagezilla.net
 domain:imago-images.com
+domain:imasdk.googleapis.com
 domain:img.ly
 domain:img.picgo.net
 domain:imgasd.com
@@ -2406,10 +2426,12 @@ domain:nytimes.com
 domain:nytimes.map.fastly.net
 domain:nytimg.com
 domain:nytstyle.com
+domain:o.pki.goog
 domain:o3o.ca
 domain:oanda.com
 domain:oann.com
 domain:obyte.org
+domain:ocsp.pki.goog
 domain:october-review.org
 domain:octocaptcha.com
 domain:oculus.com
@@ -2761,6 +2783,7 @@ domain:redditmedia.com
 domain:redditspace.com
 domain:redditstatic.com
 domain:redhotlabs.com
+domain:redirector.gvt1.com
 domain:referer.us
 domain:reflectivecode.com
 domain:relay.firefox.com
@@ -2822,6 +2845,7 @@ domain:sacks.com
 domain:sacom.hk
 domain:sadistic-v.com
 domain:sadpanda.us
+domain:safebrowsing.googleapis.com
 domain:safechat.com
 domain:safeguarddefenders.com
 domain:safervpn.com
@@ -3011,6 +3035,7 @@ domain:springwood.me
 domain:sproutcore.com
 domain:squirrelvpn.com
 domain:ss-link.com
+domain:ssl.gstatic.com
 domain:ssl.webpack.de
 domain:sspanel.net
 domain:ssr.tools
@@ -3028,6 +3053,7 @@ domain:startpage.com
 domain:static-economist.com
 domain:static.pocketcasts.com
 domain:static.shemalez.com
+domain:static.typepad.com
 domain:staticflickr.com
 domain:stboy.net
 domain:stc.com.sa
@@ -3280,6 +3306,7 @@ domain:tokenlon.im
 domain:tokyo-porn-tube.com
 domain:tokyocn.com
 domain:tomp3.cc
+domain:tools.google.com
 domain:top.tv
 domain:top10vpn.com
 domain:topbtc.com
@@ -3428,6 +3455,7 @@ domain:unwire.hk
 domain:uocn.org
 domain:up.audio
 domain:upbit.com
+domain:update.googleapis.com
 domain:updates.tdesktop.com
 domain:upghsbc.com
 domain:upmedia.mg
@@ -3710,15 +3738,19 @@ domain:wunderground.com
 domain:wuw.red
 domain:wwitv.com
 domain:www.ajsands.com
+domain:www.ampproject.org
 domain:www.aolnews.com
 domain:www.bing.com
 domain:www.clashverge.dev
+domain:www.gov.tw
+domain:www.gstatic.com
 domain:www.hoyolab.com
 domain:www.lorenzetti.com.br
 domain:www.moztw.org
 domain:www.msn.com
 domain:www.powerpointninja.com
 domain:www.shadowsocks.com
+domain:www.typepad.com
 domain:www.wan-press.org
 domain:www.xicons.org
 domain:wxw.cat
