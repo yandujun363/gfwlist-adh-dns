@@ -117,6 +117,7 @@ domain:agoogleaday.com
 domain:agro.hk
 domain:ai.dev
 domain:ai.studio
+domain:aihub.top
 domain:aiosearch.com
 domain:aiph.net
 domain:airconsole.com
@@ -274,7 +275,6 @@ domain:atlanta168.com
 domain:atnext.com
 domain:auctions.yahoo.co.jp
 domain:audacy.com
-domain:auntology.fandom.com
 domain:autodraw.com
 domain:av.movie
 domain:av01.tv
@@ -317,6 +317,7 @@ domain:bannedbook.org
 domain:banorte.com
 domain:barnabu.co.uk
 domain:barton.de
+domain:basemaps.arcgis.com
 domain:bastillepost.com
 domain:bayvoice.net
 domain:bb-chat.tv
@@ -586,6 +587,7 @@ domain:cenews.eu
 domain:centauro.com.br
 domain:centerforhumanreprod.com
 domain:centralnation.com
+domain:cerebras.ai
 domain:certificate-transparency.org
 domain:cfr.org
 domain:cg.play-analytics.com
@@ -660,6 +662,7 @@ domain:chrome.com
 domain:chromecast.com
 domain:chromeexperiments.com
 domain:chromestatus.com
+domain:cht.com.tw
 domain:ci-en.jp
 domain:ci.android.com
 domain:cia.gov
@@ -1015,6 +1018,7 @@ domain:erodoujinworld.com
 domain:eromanga-kingdom.com
 domain:eromangadouzin.com
 domain:esg.t91y.com
+domain:esim.redteago.com
 domain:eslite.com
 domain:esurance.com
 domain:etherdelta.com
@@ -1037,6 +1041,7 @@ domain:exmormon.org
 domain:expatshield.com
 domain:expecthim.com
 domain:expekt.com
+domain:experience.arcgis.com
 domain:exploader.net
 domain:expressnews.com
 domain:expressvpn.com
@@ -1073,6 +1078,7 @@ domain:falundafaindia.org
 domain:falunhr.org
 domain:famunion.com
 domain:fanbox.cc
+domain:fandom.com
 domain:fangeqiang.com
 domain:fanglizhi.info
 domain:fangong.org
@@ -1735,7 +1741,6 @@ domain:hole.thu.monster
 domain:holyspiritspeaks.org
 domain:home.saxo
 domain:homedepot.com
-domain:hongkong.fandom.com
 domain:hongkongfp.com
 domain:hongzhi.li
 domain:honven.xyz
@@ -2083,6 +2088,7 @@ domain:lenwhite.com
 domain:leonardo.ai
 domain:lesoir.be
 domain:letscorp.net
+domain:level-plus.net
 domain:lexica.art
 domain:li.taipei
 domain:liangyou.net
@@ -2329,7 +2335,6 @@ domain:mos.ru
 domain:mosavi.io
 domain:movements.org
 domain:moviefap.com
-domain:mozilla.ai
 domain:mpettis.com
 domain:mpfinance.com
 domain:mpinews.com
@@ -2479,6 +2484,7 @@ domain:ntd.tv
 domain:ntdtv.com
 domain:ntdtv.com.tw
 domain:ntdtv.cz
+domain:nthlink.com
 domain:nuexpo.com
 domain:nurgo-software.com
 domain:nusatrip.com
@@ -2780,7 +2786,6 @@ domain:puffinbrowser.com
 domain:pullfolio.co
 domain:pure18.com
 domain:pureconcepts.net
-domain:puredns.org
 domain:pureinsight.org
 domain:purepdf.com
 domain:purevpn.com
@@ -2822,7 +2827,6 @@ domain:radio.co
 domain:radio.garden
 domain:radioaustralia.net.au
 domain:radiohilight.net
-domain:radiojar.com
 domain:radioline.co
 domain:radiovaticana.org
 domain:radiovncr.com
@@ -2931,7 +2935,6 @@ domain:safebrowsing.googleapis.com
 domain:safechat.com
 domain:safeguarddefenders.com
 domain:safervpn.com
-domain:sagernet.org
 domain:sakuralive.com
 domain:salvation.org.hk
 domain:sankakucomplex.com
@@ -3603,6 +3606,7 @@ domain:uyghurcongress.org
 domain:uyghurpen.org
 domain:uyghurstudies.org
 domain:uyghurtribunal.com
+domain:v.recipes
 domain:v2.help
 domain:v2.hysteria.network
 domain:v2ex.com
@@ -3854,7 +3858,6 @@ domain:www.ajsands.com
 domain:www.ampproject.org
 domain:www.aolnews.com
 domain:www.bing.com
-domain:www.clashverge.dev
 domain:www.gov.tw
 domain:www.gstatic.com
 domain:www.hoyolab.com
