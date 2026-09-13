@@ -1,7 +1,0 @@
-{
-  "type": "module",
-  "dependencies": {
-    "date-fns": "^4.4.0",
-    "js-yaml": "^4.1.1"
-  }
-}
