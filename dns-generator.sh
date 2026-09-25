@@ -2,7 +2,7 @@
 
 # ==================== 配置区域（修改这里） ====================
 # GFWList 数据源（二选一，留空一个）
-GFW_LIST_URL="https://raw.githubusercontent.com/gfwlist/gfwlist/master/list.txt"
+GFW_LIST_URL="https://testingcf.jsdelivr.net/gh/gfwlist/gfwlist/list.txt"
 # LOCAL_GFW_FILE="gfwlist.txt"  # 使用本地文件时取消注释
 
 # AdGuard Home 上游 DNS（空格分隔）
