@@ -5,6 +5,7 @@ domain:10beasts.net
 domain:10musume.com
 domain:123av.com
 domain:123av.me
+domain:123av.org
 domain:12bet.com
 domain:12vpn.com
 domain:12vpn.net
@@ -56,6 +57,7 @@ domain:6parkbbs.com
 domain:6parker.com
 domain:6parknews.com
 domain:7capture.com
+domain:7x24hrs.com
 domain:881903.com
 domain:89-64.org
 domain:8964museum.com
@@ -186,6 +188,7 @@ domain:anobii.com
 domain:anonfiles.com
 domain:anonymouse.org
 domain:anthonycalzadilla.com
+domain:anthropic.auth0.com
 domain:anthropic.com
 domain:antpool.com
 domain:anuneko.com
@@ -206,6 +209,7 @@ domain:api.pureapk.com
 domain:api.recaptcha.net
 domain:api.shuaiapi.com
 domain:api.steampowered.com
+domain:api.themoviedb.org
 domain:apiary.io
 domain:apigee.com
 domain:apk.support
@@ -373,6 +377,7 @@ domain:bigjapanesesex.com
 domain:bignews.org
 domain:bigone.com
 domain:bild.de
+domain:bilibili.tv
 domain:bilinovel.com
 domain:binance.com
 domain:binance.org
@@ -473,6 +478,7 @@ domain:broadpressinc.com
 domain:brookings.edu
 domain:brutaltgp.com
 domain:bsky.app
+domain:bsky.chat
 domain:bsky.network
 domain:bsky.social
 domain:bt4g.org
@@ -689,7 +695,10 @@ domain:ck101.com
 domain:clashyun.com
 domain:classicalguitarblog.net
 domain:claude.ai
+domain:claude.app
 domain:claude.com
+domain:claudemcpcontent.com
+domain:claudeusercontent.com
 domain:cldr.unicode.org
 domain:clearsurance.com
 domain:clementine-player.org
@@ -750,6 +759,7 @@ domain:compileheart.com
 domain:connect.facebook.net
 domain:connectivitycheck.gstatic.com
 domain:conoha.jp
+domain:console.typesafe.ai
 domain:contests.twilio.com
 domain:cool18.com
 domain:coolaler.com
@@ -1273,6 +1283,7 @@ domain:g0.gstatic.com
 domain:g0v.social
 domain:g1.gstatic.com
 domain:g2.gstatic.com
+domain:ga.jspm.io
 domain:gab.com
 domain:gabocorp.com
 domain:gagaoolala.com
@@ -2046,6 +2057,7 @@ domain:khc.edu.tw
 domain:kichiku-doujinko.com
 domain:kik.com
 domain:killwall.com
+domain:kimootoko.net
 domain:kindle4rss.com
 domain:kingdomsalvation.org
 domain:kingkong.com.tw
@@ -2239,7 +2251,6 @@ domain:matters.news
 domain:matters.town
 domain:matthewdgreen.wordpress.com
 domain:mattwilcox.net
-domain:maven.neoforged.net
 domain:mcadforums.com
 domain:mceindex.com
 domain:mcusercontent.com
@@ -2274,7 +2285,9 @@ domain:meridian-trust.org
 domain:meripet.com
 domain:merit-times.com.tw
 domain:messenger.com
+domain:meta.ai
 domain:meta.com
+domain:metaaivm.com
 domain:metafilter.com
 domain:metamask.io
 domain:metart.com
@@ -2311,6 +2324,7 @@ domain:mingshengbao.com
 domain:minhhue.net
 domain:miningpoolhub.com
 domain:ministrybooks.org
+domain:minkch.com
 domain:minzhuzhongguo.org
 domain:miraheze.org
 domain:mirdc.org.tw
@@ -2368,6 +2382,7 @@ domain:morningsun.org
 domain:mos.ru
 domain:mosavi.io
 domain:movements.org
+domain:movie.eroterest.net
 domain:moviefap.com
 domain:mpettis.com
 domain:mpfinance.com
@@ -2434,6 +2449,7 @@ domain:ned.org
 domain:nekoslovakia.net
 domain:neo-miracle.com
 domain:neodb.social
+domain:neoforged.net
 domain:neowin.net
 domain:nephobox.com
 domain:netalert.me
@@ -2498,6 +2514,9 @@ domain:nitter.net
 domain:niu.moe
 domain:niusnews.com
 domain:njactb.org
+domain:njav.com
+domain:njav.tv
+domain:njavtv.com
 domain:nlfreevpn.com
 domain:nmsl.website
 domain:nnews.eu
@@ -2738,6 +2757,7 @@ domain:plexvpn.pro
 domain:plurk.com
 domain:plus.codes
 domain:pmatehunter.com
+domain:po-kaki-to.com
 domain:po2b.com
 domain:podbean.com
 domain:podcast.co
@@ -3473,6 +3493,7 @@ domain:torlock.com
 domain:torproject.org
 domain:torrentgalaxy.to
 domain:torrentkitty.tv
+domain:torrentleech.org
 domain:torrentprivacy.com
 domain:torrenty.org
 domain:tortoisesvn.net
@@ -4043,6 +4064,7 @@ domain:youtubeeducation.com
 domain:youtubegaming.com
 domain:youtubekids.com
 domain:youversion.com
+domain:youversionapi.com
 domain:youwin.com
 domain:youxu.info
 domain:yt.be
@@ -4109,6 +4131,7 @@ domain:zootool.com
 domain:zophar.net
 domain:zorrovpn.com
 domain:zozotown.com
+domain:zozovideo.com
 domain:zpn.im
 domain:zspeeder.me
 domain:zuo.la
