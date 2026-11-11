@@ -1,5 +1,7 @@
 # AdguaedHome GFWList
 
+**因为个人精力问题停止更新，请自行生成或者寻找替代品**
+
 基于[gfwlist](https://github.com/gfwlist/gfwlist)生成的AdguardHome分流文件
 
 上个版本过于屎所以就重构，现在简化了很多，但是要依赖Xray，配置在[xray-dns.json](xray-dns.json)(TCP DNS 分片可能不是在全部地方都有用，请自行解决)
